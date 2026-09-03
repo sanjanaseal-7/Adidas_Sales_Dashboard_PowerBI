@@ -41,4 +41,7 @@ Excel | Power Query | Data Modelling | Data Visualization | Power BI | Dashboard
 • Used a data-driven analysis and problem-solving approach to identify performance gaps, trends, and potential areas for business growth.
 
 # 5. Screenshot:
+https://github.com/sanjanaseal-7/Adidas_Sales_Dashboard_PowerBI/blob/main/Adidas_sales_dashboard.png
+
+<img width="1146" height="645" alt="Adidas_sales_dashboard" src="https://github.com/user-attachments/assets/cd0fe197-8473-43c4-83c3-de8cd12c7cc8" />
 
